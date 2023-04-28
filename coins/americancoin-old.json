@@ -1,0 +1,6 @@
+{
+    "name": "Americancoin",
+    "symbol": "AMC",
+    "algorithm": "scrypt",
+    "hasGetInfo": "true"
+}
